@@ -265,13 +265,13 @@ isort .
 4. Ensure all tests pass
 5. Submit a pull request
 
-## 📄 License
+<!-- ## 📄 License
 
-[Add your license here]
+[Add your license here] -->
 
 ## 👥 Contact
 
-[Add contact information]
+Tanish Mahajan
 
 ---
 
