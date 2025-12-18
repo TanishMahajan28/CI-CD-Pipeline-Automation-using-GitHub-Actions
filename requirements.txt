@@ -1,0 +1,25 @@
+# Web Framework (choose one based on your application)
+# Flask==3.0.0
+# fastapi==0.109.0
+# uvicorn[standard]==0.27.0
+# django==5.0.0
+
+# Common dependencies
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Database (uncomment as needed)
+# psycopg2-binary==2.9.9  # PostgreSQL
+# pymongo==4.6.1  # MongoDB
+# redis==5.0.1  # Redis
+
+# Security
+cryptography==42.0.0
+
+# Production server (if not using uvicorn)
+gunicorn==21.2.0
+
+# Monitoring and logging
+python-json-logger==2.0.7
+
+# Add your application-specific dependencies below
